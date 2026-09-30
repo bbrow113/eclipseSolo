@@ -1,4 +1,4 @@
-package eclipseSolo;
+package src.eclipseSolo;
 
 public class HelloWorld {
 	
